@@ -1,0 +1,107 @@
+GenBricks Proprietary Software License Agreement
+
+Copyright (c) 2024-2026 GenBricks. All rights reserved.
+
+IMPORTANT: READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+
+1. DEFINITIONS
+
+   "Software" means the source code, object code, documentation, and all
+   associated files contained in this repository.
+
+   "Licensor" means GenBricks, the sole author and copyright holder.
+
+   "Service" means the hosted SaaS application operated by Licensor and
+   made available to subscribers through cloud marketplaces or direct
+   subscription.
+
+   "Subscriber" means any individual or entity that has entered into a
+   valid subscription agreement with Licensor to access the Service.
+
+2. GRANT OF RIGHTS
+
+   Subject to a valid subscription agreement, Licensor grants Subscriber
+   a limited, non-exclusive, non-transferable, non-sublicensable right
+   to access and use the Service during the subscription term, solely for
+   Subscriber's internal business purposes.
+
+   No rights are granted to the underlying Software. Subscribers access
+   the Service; they do not receive, install, or execute the Software
+   directly.
+
+3. RESTRICTIONS
+
+   Unless expressly authorized in writing by Licensor, you may NOT:
+
+   (a) Copy, modify, adapt, translate, or create derivative works of
+       the Software;
+   (b) Distribute, sublicense, lease, rent, loan, or otherwise transfer
+       the Software to any third party;
+   (c) Reverse engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code of the Software;
+   (d) Remove, alter, or obscure any copyright, trademark, or other
+       proprietary notices contained in the Software;
+   (e) Use the Software to build a competing product or service;
+   (f) Use the Software outside the scope of a valid subscription
+       agreement.
+
+4. INTELLECTUAL PROPERTY
+
+   The Software and all copies, modifications, and derivative works
+   thereof are and shall remain the sole and exclusive property of
+   Licensor. Nothing in this Agreement grants any ownership rights in
+   the Software to any party other than Licensor.
+
+5. MARKETPLACE DISTRIBUTION
+
+   When the Service is offered through AWS Marketplace, Azure Marketplace,
+   or other cloud marketplaces, the marketplace-specific terms of service
+   supplement this Agreement. In the event of a conflict between this
+   Agreement and marketplace terms, the marketplace terms govern solely
+   with respect to the billing and subscription mechanics; all other
+   provisions of this Agreement remain in effect.
+
+6. DATA AND PRIVACY
+
+   Subscriber retains all rights to data submitted to the Service.
+   Licensor processes Subscriber data solely to operate and improve the
+   Service, in accordance with the applicable privacy policy and data
+   processing agreement.
+
+7. DISCLAIMER OF WARRANTIES
+
+   THE SOFTWARE AND SERVICE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SERVICE WILL BE
+   UNINTERRUPTED, ERROR-FREE, OR SECURE.
+
+8. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+   SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS
+   OR REVENUE, WHETHER INCURRED DIRECTLY OR INDIRECTLY, ARISING OUT OF
+   OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OF THE SERVICE, EVEN
+   IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   LICENSOR'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED THE AMOUNTS
+   PAID BY SUBSCRIBER TO LICENSOR IN THE TWELVE (12) MONTHS PRECEDING
+   THE CLAIM.
+
+9. TERMINATION
+
+   This Agreement terminates automatically upon expiration or termination
+   of the Subscriber's subscription. Upon termination, all rights granted
+   hereunder cease immediately. Sections 3, 4, 7, 8, and 10 survive
+   termination.
+
+10. GOVERNING LAW
+
+    This Agreement shall be governed by and construed in accordance with
+    the laws of the State of Texas, without regard to its conflict of
+    laws provisions.
+
+11. CONTACT
+
+    For licensing inquiries: ops@genbricks.io
+    Website: https://genbricks.io
